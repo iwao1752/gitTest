@@ -1,3 +1,6 @@
 first commit
 
 2.edit file
+
+3.changed
+
